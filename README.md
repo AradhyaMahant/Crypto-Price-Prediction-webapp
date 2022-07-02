@@ -1,27 +1,22 @@
 # Crypto-Price-Prediction-webapp
 
 
-# Objective
+## Objective
 
-Main Objective:
+### Main Objective:
 The main objective of our project “Crypto price prediction” is predicting crypto price with the help of historical data and applying deep learning algorithm “LSTM” model which is an extension of Recurrent neural network. As crypto prices are very volatile and are based on many factors which include world news, world trade and etc. For this purpose we are also bringing “Sentiment Analysis” in order to bring polarity to twitter data with the help of TextBlob.
 
-Sub Objective:
+### Sub Objective:
 With the growing population and economic crashes, there is a requirement of a prediction system which can predict accurate prices based on historical data of that currency but also due to the volatility of cryptocurrency it can recommend to sell, buy or retain the crypto. The former is done with help of LSTM model and the latter with the help of sentiment analysis of twitter data.
 
 
-Methodology
+## Methodology
 
-
-
-
-
-
-Reference of software model :
+### Reference of software model :
 In this project we are using LSTM model of deep learning on time series data to predict the future of crypto for next 30 days. Other than that we have used sentiment analysis on tweets from twitter to analyze weather the price will go up or not.
 
 
-Steps explained :
+### Steps explained :
 
 
 1.Web scraping data from yahoo finance and tweets from twitter.
