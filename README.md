@@ -14,6 +14,7 @@ With the growing population and economic crashes, there is a requirement of a pr
 
 ### Reference of software model :
 In this project we are using LSTM model of deep learning on time series data to predict the future of crypto for next 30 days. Other than that we have used sentiment analysis on tweets from twitter to analyze weather the price will go up or not.
+![1](https://user-images.githubusercontent.com/80280041/176985789-85bcecb7-4e43-4cb4-a3cf-8a38e665e735.png)
 
 
 ### Steps explained :
@@ -38,3 +39,12 @@ In this project we are using LSTM model of deep learning on time series data to 
 9. Then using Textblob we got the polarity and subjectivity of the tweets.
 
 10.Depending on the count of positive, negative or neutral tweets we have recommended the user weather the price will increase, decrease or remain same.
+
+
+
+
+
+
+
+
+
