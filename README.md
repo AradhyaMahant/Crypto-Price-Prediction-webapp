@@ -64,3 +64,18 @@ Tested Currency Ethereum results:
 ![Screenshot 2022-07-02 095535](https://user-images.githubusercontent.com/80280041/176986447-132eda4f-aec7-40af-b839-0b15cebfec95.png)
 
 
+
+## Reference
+
+1. Wikipedia: https://en.wikipedia.org/wiki/Long_short-term_memory
+
+2. https://towardsdatascience.com/cryptocurrency-price-prediction-using-deep-learning-70cfca50dd3a
+
+3. Tweet Sentiment Analysis for Cryptocurrencies(Research paper):
+	https://ieeexplore.ieee.org/document/9558914
+          
+4. Blog by Predicting Cryptocurrency Price With Tensorflow and Keras:
+https://medium.com/@huangkh19951228/predicting-cryptocurrency-price-with-tensorflow-and-keras-e1674b0dc58a
+
+5. JavaTPoint : https://www.javatpoint.com/keras-recurrent-neural-networks
+
