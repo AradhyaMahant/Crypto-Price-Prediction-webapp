@@ -43,10 +43,24 @@ In this project we are using LSTM model of deep learning on time series data to 
 10.Depending on the count of positive, negative or neutral tweets we have recommended the user weather the price will increase, decrease or remain same.
 
 
+## Results
+Tested Currency Ethereum results:
+
+![2](https://user-images.githubusercontent.com/80280041/176986430-8a829163-c8c7-440b-9fab-39a267f67d1b.png)
+
+![3](https://user-images.githubusercontent.com/80280041/176986435-c47014c0-8857-4d59-8ecd-6d17b88f64f1.png)
+
+![4](https://user-images.githubusercontent.com/80280041/176986436-ab7cced7-173f-4c53-a039-b4eecd291f76.png)
+
+
+![5](https://user-images.githubusercontent.com/80280041/176986440-881b5c32-acff-4a11-8fc0-1f837eeb3e99.png)
+
+
+![6](https://user-images.githubusercontent.com/80280041/176986445-f9304e7c-885e-446b-a8d9-8ba001ac8f48.png)
 
 
 
 
-
+![Screenshot 2022-07-02 095535](https://user-images.githubusercontent.com/80280041/176986447-132eda4f-aec7-40af-b839-0b15cebfec95.png)
 
 
